@@ -1,0 +1,12 @@
+.email:hover{
+    color:rgb(245, 190, 88);
+    font-size: 1.1rem;
+}
+
+.card-list{
+    width:vw;
+    margin:0 auto;
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-gap:20px;
+}

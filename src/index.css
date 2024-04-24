@@ -1,0 +1,18 @@
+@import url('https://cdn.jsdelivr.net/npm/bootswatch@4.5.2/dist/sketchy/bootstrap.min.css');
+/*@import url('./components/search-box/search-box.styles.css'); */
+body{
+  margin:0;
+  padding:0;
+  background:linear-gradient(to left,rgba(7,27,82,1) 0%,rgba(0,128,128,1) 100%);
+  color:white;
+}
+.app-title {
+  margin-top:25px;
+  margin-bottom:15px;
+  width:33%;
+  margin-left:auto;
+  margin-right:auto;
+  font-family: 'Bigelow Rules';
+  font-size:6vw;
+  color:#3dc2bc;
+}
